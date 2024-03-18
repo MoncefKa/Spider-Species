@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2024-03-18T13:36:02.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.0.4 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="GY6uQ9c5JoUWetc9Y-u5" version="24.0.4" type="device">
+  <diagram name="Page-1" id="a_Ih9ctpUza2gxn3MvQB">
+    <mxGraphModel dx="1550" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFFFFF" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N8znOHDVg63UBzzIUQL2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N8znOHDVg63UBzzIUQL2-1" target="N8znOHDVg63UBzzIUQL2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N8znOHDVg63UBzzIUQL2-1" value="End User" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N8znOHDVg63UBzzIUQL2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N8znOHDVg63UBzzIUQL2-2" target="N8znOHDVg63UBzzIUQL2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N8znOHDVg63UBzzIUQL2-2" value="Drop Image&lt;div&gt;Into WebApp&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N8znOHDVg63UBzzIUQL2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="N8znOHDVg63UBzzIUQL2-4" target="N8znOHDVg63UBzzIUQL2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N8znOHDVg63UBzzIUQL2-4" value="AI Identify&amp;nbsp;&lt;div&gt;Species&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N8znOHDVg63UBzzIUQL2-6" value="Give Species&lt;div&gt;Name and&lt;/div&gt;&lt;div&gt;info&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="325" width="100" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
